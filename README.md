@@ -15,8 +15,7 @@ The project was built to enable anyone to share HL7v2 sample messages without id
 3. Run the application with at least the `-d` or `--directory` option set <br>
 For example on windows run:
 `Healex.HL7v2Anonymizer.exe -d C:\Path\To\Files` <br>
-For Linux make sure you have .NET 6.0 installed (e.g for 20.04: https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu-2004)
-Then run the .csproj with: dotnet run Healex.HL7v2Anonymizer.csproj -d /path/to/files
+On Linux that would be `./Healex.Hl7v2Anonymizer -d /path/to/files`
 
 **Warning: This will overwrite the original message if no separate output directory is specified.**
 
