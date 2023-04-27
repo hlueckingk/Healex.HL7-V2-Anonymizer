@@ -1,0 +1,29 @@
+[07:10:38 INF] FileMoverHostedService - Starting...
+[07:10:38 INF] RequestHostedService - Starting...
+[07:10:38 INF] FileReaderHostedService - Starting...
+[07:10:38 INF] FileSystemWatcherHostedService - Starting...
+[08:36:44 INF] RequestExecuter - d0ec5af0-2a17-406f-a18d-b7bb07700b9c - Executing request 0 for file /app/ADT_A01_watch/ADT_A01_Anonymized.hl7
+[08:36:45 ERR] FileHandlerHttpClient - d0ec5af0-2a17-406f-a18d-b7bb07700b9c - The HTTP request failed with statuscode : InternalServerError. Content is: 
+[08:36:45 ERR] RequestExecuter - d0ec5af0-2a17-406f-a18d-b7bb07700b9c - File /app/ADT_A01_watch/ADT_A01_Anonymized.hl7 could not be sent and was excluded from retry due to error: The received status code InternalServerError is configured to be excluded from retry. Moving file to error directory.
+[08:36:59 INF] RequestExecuter - 19dd4515-64e7-415f-ba8a-ad1d15ddf1c2 - Executing request 0 for file /app/ADT_A03_watch/ADT_A03_Anonymized.hl7
+[08:36:59 ERR] FileHandlerHttpClient - 19dd4515-64e7-415f-ba8a-ad1d15ddf1c2 - The HTTP request failed with statuscode : InternalServerError. Content is: 
+[08:36:59 ERR] RequestExecuter - 19dd4515-64e7-415f-ba8a-ad1d15ddf1c2 - File /app/ADT_A03_watch/ADT_A03_Anonymized.hl7 could not be sent and was excluded from retry due to error: The received status code InternalServerError is configured to be excluded from retry. Moving file to error directory.
+[08:37:07 INF] RequestExecuter - f989a262-328c-49ef-9c8a-29674e1e07d2 - Executing request 0 for file /app/ADT_A04_watch/ADT_A04_Anonymized.hl7
+[08:37:07 ERR] FileHandlerHttpClient - f989a262-328c-49ef-9c8a-29674e1e07d2 - The HTTP request failed with statuscode : InternalServerError. Content is: 
+[08:37:07 ERR] RequestExecuter - f989a262-328c-49ef-9c8a-29674e1e07d2 - File /app/ADT_A04_watch/ADT_A04_Anonymized.hl7 could not be sent and was excluded from retry due to error: The received status code InternalServerError is configured to be excluded from retry. Moving file to error directory.
+[08:37:11 INF] RequestExecuter - 505bf9f2-7a94-4f65-80a4-6bcfcd1cae4e - Executing request 0 for file /app/ADT_A06_watch/ADT_A06_Anonymized.hl7
+[08:37:11 ERR] FileHandlerHttpClient - 505bf9f2-7a94-4f65-80a4-6bcfcd1cae4e - The HTTP request failed with statuscode : InternalServerError. Content is: 
+[08:37:11 ERR] RequestExecuter - 505bf9f2-7a94-4f65-80a4-6bcfcd1cae4e - File /app/ADT_A06_watch/ADT_A06_Anonymized.hl7 could not be sent and was excluded from retry due to error: The received status code InternalServerError is configured to be excluded from retry. Moving file to error directory.
+[08:37:19 INF] RequestExecuter - b25ce13f-d781-424f-96ec-a04b923dcbee - Executing request 0 for file /app/ADT_A08_watch/ADT_A08_Anonymized.hl7
+[08:37:19 ERR] FileHandlerHttpClient - b25ce13f-d781-424f-96ec-a04b923dcbee - The HTTP request failed with statuscode : InternalServerError. Content is: 
+[08:37:19 ERR] RequestExecuter - b25ce13f-d781-424f-96ec-a04b923dcbee - File /app/ADT_A08_watch/ADT_A08_Anonymized.hl7 could not be sent and was excluded from retry due to error: The received status code InternalServerError is configured to be excluded from retry. Moving file to error directory.
+[08:37:46 INF] RequestExecuter - 09b0e4d8-36d4-4a87-b31d-c57f6b705b31 - Executing request 0 for file /app/ORU_R01_watch/ORU_R01_Anonymized.hl7
+[08:37:46 ERR] FileHandlerHttpClient - 09b0e4d8-36d4-4a87-b31d-c57f6b705b31 - The HTTP request failed with statuscode : InternalServerError. Content is: 
+[08:37:46 ERR] RequestExecuter - 09b0e4d8-36d4-4a87-b31d-c57f6b705b31 - File /app/ORU_R01_watch/ORU_R01_Anonymized.hl7 could not be sent and was excluded from retry due to error: The received status code InternalServerError is configured to be excluded from retry. Moving file to error directory.
+[08:46:29 INF] RequestExecuter - 9abac34d-38ac-41c7-ab2a-cc081c53a767 - Executing request 0 for file /app/ADT_A01_watch/ADT_A01_Test1.hl7
+[08:46:33 INF] FileHandlerHttpClient - 9abac34d-38ac-41c7-ab2a-cc081c53a767 - The HTTP request was successful
+[08:46:33 INF] RequestExecuter - 2b0da453-a30d-4106-a75b-ae39335ae82e - Executing request 1 for file /app/ADT_A01_watch/ADT_A01_Test1.hl7
+[08:46:35 INF] FileHandlerHttpClient - 2b0da453-a30d-4106-a75b-ae39335ae82e - The HTTP request was successful
+[08:46:35 INF] RequestExecuter - 45c70893-62d3-4c7d-9765-5608fec71b42 - Executing request 2 for file /app/ADT_A01_watch/ADT_A01_Test1.hl7
+[08:46:37 INF] FileHandlerHttpClient - 45c70893-62d3-4c7d-9765-5608fec71b42 - The HTTP request was successful
+[08:46:37 INF] RequestExecuter - 45c70893-62d3-4c7d-9765-5608fec71b42 - Finished request 2 of 2 for file /app/ADT_A01_watch/ADT_A01_Test1.hl7. Moving file to success directory.

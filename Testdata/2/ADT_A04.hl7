@@ -1,0 +1,7 @@
+MSH|^~\&|SAP-ISH|001-0001|||20201126172929||ADT^A04|29322403|P|2.5|||AL|NE|DE|ISO8859-15
+EVN|A04|20201126172929||NP42I0||20201022143838|BRESGENM
+PID|||1234567^7^ISO^^PI||Xburg^Xtest Tesla^TestOtherName^TESTSuffix^TESTPrefix^^L^^^^^19901126^20201126|Xburg|20110101|X|||XK�lnerstr. 99x^^K�ln^NRW^50505^D^H||0155-55555333^^PH||D|T||||||||||DE||||N|
+NK1|1|Xburg^|^^ISH|Xaltstra�e 99^^Xalt Stadt^^53333^D
+NK1|2|Xarbeiter^^^^^^D|AG^Arbeitgeber^MIRTH|^^^^^D^B
+PV1||O|00000846^^^00000008|MI||^^|||||||||||||1001665436^0^ISO^^VN||K|||K||||||||||||||||||||20201022143838|||||||V
+PV2||^^ISH|||||MI|||||

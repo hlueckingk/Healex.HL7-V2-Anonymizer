@@ -1,0 +1,13 @@
+MSH|^~\&|SAP-ISH|001-0001|||20201126172429||ADT^A01|29322341|P|2.5|||AL|NE|DE|ISO8859-15
+EVN|A01|20201126172429||NP12I0||20201125111100|BAPIGWI
+PID|||1234567^0^ISO^^PI||Xan^Xvorname^^^^^L|Xan|19440404|Y|||Xanstr. 99^^Xstadt^^22288^D||0199-99994444^^PH||D|M||||||||||DE||||N|
+NK1|1|Xan^Xehefrau|F^^ISH|^^^^^D|0199-99994443^^PH
+NK1|2|Xarbeiter^^^^^^D|AG^Arbeitgeber^Xfirma|^^^^^D^B
+PV1||I|00000840^^^00000008|NO||^^|||0004044644^Arzt_Name^Arzt_Vorname^^^^Dr. med.||||||||||1001111999^6^ISO^^VN||K|||K||||||||||||||||||||20201125111100|20201126172300||||||H
+PV2||A^Allgemeiner Patient^ISH|0107||||NO|||00014||
+DG1|||A09.9^Sonstige und nicht n�her bezeichnete Gas^I10|||AD
+DG1|||A09.9^Sonstige und nicht n�her bezeichnete Gas^I10|||
+IN1|1||0004000015^^^^FI~0104212505^^^^NI~0104212505^^^^HC|AOK Rheinland|Machab�erstr. 19-27^^K�ln^^50668^D||0221  16180^^PH~1618580^^FX|||||20041001|99991231||R|^^^^^|||^^^^^|||01||||||||||||||F330313486|||||||||
+IN1|2|SZ^Selbstzahler^Xfirma|||^^^^^|||||||19460502|99991231|||^^^^^|||^^^^^|||98||||||||||||||
+ZBE|100171198700002|20201125111100||UPDATE
+ZZK|||||98||||20201125|00000000||003
