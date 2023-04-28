@@ -1,0 +1,67 @@
+{
+    "resourceType": "Patient",
+    "meta": {
+        "profile": [
+            "https://www.medizininformatik-initiative.de/fhir/core/modul-person/StructureDefinition/Patient"
+        ],
+        "versionId": "0cba9129-6670-4e97-b8ae-14b9801dad82",
+        "lastUpdated": "2022-07-21T09:18:47.017+00:00"
+    },
+    "id": "bca7b3f4-508b-474a-8e0e-5e78cb4ec882",
+    "active": true,
+    "deceasedDateTime": "2022-07-01",
+    "multipleBirthBoolean": true,
+    "identifier": [
+        {
+            "system": "https://owl.de/fhir/sid/patienten-identifier",
+            "value": "56789",
+            "use": "usual",
+            "type": {
+                "coding": [
+                    {
+                        "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+                        "code": "MR"
+                    }
+                ]
+            }
+        }
+    ],
+    "name": [
+        {
+            "use": "official",
+            "family": "Lee",
+            "given": [
+                "Bruce"
+            ]
+        }
+    ],
+    "gender": "other",
+    "_gender": {
+        "extension": [
+            {
+                "url": "http://fhir.de/StructureDefinition/gender-amtlich-de",
+                "valueCoding": {
+                    "system": "http://fhir.de/CodeSystem/gender-amtlich-de",
+                    "code": "M"
+                }
+            }
+        ]
+    },
+    "birthDate": "1940-09-27",
+    "address": [
+        {
+            "type": "both",
+            "_line": [
+                {
+                    "extension": [
+                        {
+                            "url": "http://hl7.org/fhir/StructureDefinition/data-absent-reason",
+                            "valueCode": "not-asked"
+                        }
+                    ]
+                }
+            ],
+            "postalCode": "H1W3V5"
+        }
+    ]
+}

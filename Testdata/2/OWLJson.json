@@ -1,0 +1,12 @@
+{
+    "resourceType": "OWLJson",
+    "Identifier": "1234567",
+    "Status": "resolved",
+    "ConditionICD10Code": "G47.59",
+    "ConditionText": "Exploding head syndrome",
+    "DiagnosisDate": "22.04.2021",
+    "ConditionLocationSnomedCode": "280374001",
+    "ConditionLocationSnomedText": "Temporal lobe sulcus (body structure)",
+    "Physician": "Dr. Bielefeld",
+    "Description": "Patient 123457 was diagnosed with Exploding head syndrome on 22.04.2021 by Dr. Bielefeld."
+}

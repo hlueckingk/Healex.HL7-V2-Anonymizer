@@ -1,0 +1,19 @@
+MSH|^~\&|RANDIIIM||ABC||20000101141644||ORU^R01|aHCHUCIE.0001|P|2.5|
+PID|||1234567|1001777999^9|Eiermann^Maxa||19111111000000|F|
+PV1|||0805|
+ORC|RE|28385164|28385164||CM||^^^^^N||20201028095900||LABOR|0805|
+OBR|1|28385164|28385164|100_NA^Natrium (HP)^01|||20201028110500|||||||20201028110500|&Heparin Plasma|0805||||||20201028141636|||F|
+OBX|1|NM|100_NA^Natrium (HP)^01||139|mmol/l|135 - 145|||N|F|||20201028120300||^J. Ruthard^Johannes|indirekte Potentiome|
+OBR|2|28385164|28385164|100_K^Kalium (HP)^01|||20201028110500|||||||20201028110500|&Heparin Plasma|0805||||||20201028141636|||F|
+OBX|1|NM|100_K^Kalium (HP)^01||3.8|mmol/l|3.6 - 4.8|||N|F|||20201028120300||^J. Ruthard^Johannes|indirekte Potentiome|
+OBR|3|28385164|28385164|100_CL^Chlorid (HP)^01|||20201028110500|||||||20201028110500|&Heparin Plasma|0805||||||20201028141636|||F|
+OBX|1|NM|100_CL^Chlorid (HP)^01||103|mmol/l|94 - 110|||N|F|||20201028120300||^J. Ruthard^Johannes|indirekte Potentiome|
+OBR|4|28385164|28385164|100_GLU^Glukose (HP)^01|||20201028110500|||||||20201028110500|&Heparin Plasma|0805||||||20201028141636|||F|
+OBX|1|NM|100_GLU^Glukose (HP)^01||71|mg/dl|74 - 109|L||N|F|||20201028120300||^J. Ruthard^Johannes|UV Test (Hexokinase)|
+OBR|5|28385164|28385164|100_MG^Magnesium (HP)^01|||20201028110500|||||||20201028110500|&Heparin Plasma|0805||||||20201028141636|||F|
+OBX|1|NM|100_MG^Magnesium (HP)^01||0.77|mmol/l|0.7 - 1.1|||N|F|||20201028120300||^J. Ruthard^Johannes|Endpunkt Farbtest Xy|
+OBR|6|28385164|28385164|100_CAKE^Calcium (korr. Eiw)^01|||20201028110500|||||||20201028110500|&Heparin Plasma|0805||||||20201028141636|||F|
+OBX|1|NM|100_CAKE^Calcium (korr. Eiw)^01||2.30|mmol/l|2.04 - 2.59|||N|F|||20201028120500||^J. Ruthard^Johannes|
+NTE|1||Rechenparameter, mit dem das gemessene Calcium auf den|
+NTE|2||Proteingehalt des Plasmas korrigiert und damit normiert wird.|
+NTE|3||Euthyreose|

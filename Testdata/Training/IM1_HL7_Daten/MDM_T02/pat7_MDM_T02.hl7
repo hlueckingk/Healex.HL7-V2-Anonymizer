@@ -1,0 +1,6 @@
+﻿MSH|^~\&|VP6|ViewPoint|MDM||20220831103511||MDM^T02|45711|P|2.4|||AL|NE
+EVN|T02|20220831103511
+PID||2340634|2340634|107046|Mehnert^Sandra|Gehring|19740420|F|||Gütersloher Str.  233^^Bielefeld^^33649^D||||Deutsch|verheiratet|||||||Bielefeld|||D
+PV1||O|MA_MSEN_E0^^^MSEN|||||||||||||0|||7512055|||||K||||||||||||||||||||20220831095900
+TXA|1|CN|L2D|20220831101323||||20220831103511837||||94457501300^^Mammasonographie||944575|944575|94457501300_1.pdf
+OBX|1|ST|IMAGE_REF||\E\\E\140.140.1.25\E\docs_viewpoint\E\94457501300_1.pdf||||||P

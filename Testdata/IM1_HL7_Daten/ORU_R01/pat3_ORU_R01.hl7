@@ -1,0 +1,11 @@
+MSH|^~\&|iSL|LABOR|||20220718161809||ORU^R01|4711|P|2.4|||AL|NE|DEU
+PID|||2089081||Pistor^Jana||20041109|F
+PV1|||9_3^^^MHNO||||||||RLAB^^^RMED||||||||7492318
+ORC|||6614484600||IP||||20220717003127
+OBR|||6614484600|V-EBNA|||20220718161329||||||||154||||||||||
+OBX||ST|V-EBNA||1.18|Index|<0.50-0.99||||F|||20220718161329
+NTE|1|V-EBNA|Aus serologischer Sicht ist die Befundkonstellation mit einer latenten (nicht aktiven) EBV-Infektion zu vereinbaren.
+OBR|||6614484600|V-EBVG|||20220718160535||||||||154||||||||||
+OBX||ST|V-EBVG||56.15|Index|<0.75-0.99||||C|||20220718161329
+OBR|||6614484600|V-EBVM|||20220718161329||||||||154||||||||||
+OBX||ST|V-EBVM||0.08|Index|<0.50-0.99||||F|||20220718161329
